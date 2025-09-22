@@ -28,7 +28,7 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a machine learning researcher with a strong interest in applying AI to scientific and engineering challenges.  
+  I am a **machine learning researcher** with a strong interest in applying AI to scientific and engineering challenges.  
 
   At the CVBLab at Universitat Politècnica de València, I work on both academic and industry-oriented research, contributing to European projects. My experience covers areas like **Deep Learning, reinforcement learning, computer vision and physics-informed models**.  
 
