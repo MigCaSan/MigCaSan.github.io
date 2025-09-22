@@ -12,7 +12,7 @@ email: micasan4@teleco.upv.es
 website: github.com/MigCaSan
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: True
 
 # Social links
 github_username: MigCaSan
